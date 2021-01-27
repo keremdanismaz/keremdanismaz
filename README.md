@@ -1,3 +1,4 @@
+- Hello I'm Kerem 
 - 🌱 I’m currently learning React,.Net Core
 - 🤔 I’m looking for help with React.js
 - 💬 Ask me about everything
