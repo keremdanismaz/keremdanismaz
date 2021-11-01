@@ -24,15 +24,11 @@
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux&logoColor=A8B9CC)&nbsp;  
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular&logoColor=A8B9CC)&nbsp;
 ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=Nestjs&logoColor=A8B9CC)&nbsp;
-
-
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp&logoColor=A8B9CC)&nbsp;
 ![EntityFrameworkCore](https://img.shields.io/badge/-EntityFrameworkCore-05122A?style=flat&logo=EntityFrameworkCore&logoColor=A8B9CC)&nbsp;
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
-
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 </p>
