@@ -1,8 +1,9 @@
 - Hello <b>I'm Kerem</b>
-- 🌱 I’m currently learning React,.Net Core
-- 🤔 I’m looking for help with React.js
-- 💬 Ask me about everything
-- ⚡ My Hobbies: basketball, gym, code, swimming, country trip
+- 🌱 I’m currently learning React, Angular, Nest.js, .Net Core
+- 🤔 I’m looking for help with React.js and Angular
+- 💬 Ask me about everything. My Contact Here 👇👇
+- ⚡ My Hobbies: basketball, gym, code, swimming, country trip.
+- 🧳🚃✈️🚤 7 Country, 28 City.
 
 
 <h3 align="center">Connect with me:</h3>
