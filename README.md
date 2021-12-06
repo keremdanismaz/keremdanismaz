@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/keremdnsmaz/?hl=tr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="keydi_" height="30" width="40" /></a>
 <a href="http://keydi.herokuapp.com/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/625/625187.png" alt="keydi_" height="30" width="30"/></a>
 </p>
-
+<br/>
 
 <p>
   
